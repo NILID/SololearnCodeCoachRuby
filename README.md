@@ -78,9 +78,9 @@ Some Sololearn's Code Coach solutions for Ruby
 ### Pro
 * 2D Map
 * Digits of Pi
-* Longest Common Substring
 * Hofstadter's Q-Sequence
 * It's Sign
+* Longest Common Substring
 * Mathematics
 * Poker Hand
 * Word Rank
